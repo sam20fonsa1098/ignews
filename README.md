@@ -3,8 +3,6 @@
 
 Application developed using Nextjs, to exercise the concepts of Static Site Generation (SSG), Server Side Rendering (SSR) and Serverless. The application uses the Next API Routes for integration with the Stripe payment platform, the FaunaDB database, in addition to the Prismic CMS.
 
-![landing](./landing.png?raw=true)
-
 ![](ignews.gif)
 
 
